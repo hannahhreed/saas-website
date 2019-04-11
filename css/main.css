@@ -91,10 +91,6 @@ td {
   text-decoration: underline;
 }
 
-.posts a {
-  color: #568c36;
-}
-
 @media only screen and (min-width: 35em) {
 
   .about-content {
