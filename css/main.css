@@ -71,20 +71,20 @@ td {
 }
 
 .btn {
-  background-color: #113c00;
-  border-color: #113c00;
+  background-color: yellow;
+  border-color: yellow;
 
-  color: #fff;
+  color: black;
 }
 
 .btn:hover {
-  background-color: #568c36;
-  border-color: #568c36;
+  background-color: black;
+  border-color: black;
 }
 
 .footer {
-  background-color: #113c00;
-  color: #fff;
+  background-color: yellow;
+  color: black;
 }
 
 .skip-links a {
